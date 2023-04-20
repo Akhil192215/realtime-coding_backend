@@ -1,3 +1,4 @@
+/* eslint-disable no-underscore-dangle */
 const jimp = require("jimp");
 const path = require("path");
 const UserDto = require("../dtos/user-dto");
