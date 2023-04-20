@@ -1,3 +1,5 @@
+/* eslint-disable consistent-return */
+/* eslint-disable class-methods-use-this */
 /* eslint-disable no-underscore-dangle */
 const otpService = require("../services/otp-service");
 const hashService = require("../services/hash-service");
